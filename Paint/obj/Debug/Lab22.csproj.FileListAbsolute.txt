@@ -1,0 +1,21 @@
+C:\Users\Sergey\Desktop\КП и ЯП\КПиЯП Lab 9\Lab22\Lab22\bin\Debug\Lab22.exe.config
+C:\Users\Sergey\Desktop\КП и ЯП\КПиЯП Lab 9\Lab22\Lab22\bin\Debug\Lab22.exe
+C:\Users\Sergey\Desktop\КП и ЯП\КПиЯП Lab 9\Lab22\Lab22\bin\Debug\Lab22.pdb
+C:\Users\Sergey\Desktop\КП и ЯП\КПиЯП Lab 9\Lab22\Lab22\obj\Debug\Lab22.csprojAssemblyReference.cache
+C:\Users\Sergey\Desktop\КП и ЯП\КПиЯП Lab 9\Lab22\Lab22\obj\Debug\Lab22.Properties.Resources.resources
+C:\Users\Sergey\Desktop\КП и ЯП\КПиЯП Lab 9\Lab22\Lab22\obj\Debug\Lab22.csproj.GenerateResource.cache
+C:\Users\Sergey\Desktop\КП и ЯП\КПиЯП Lab 9\Lab22\Lab22\obj\Debug\Lab22.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\КП и ЯП\КПиЯП Lab 9\Lab22\Lab22\obj\Debug\Lab22.exe
+C:\Users\Sergey\Desktop\КП и ЯП\КПиЯП Lab 9\Lab22\Lab22\obj\Debug\Lab22.pdb
+C:\Users\Sergey\Desktop\КП и ЯП\КПиЯП Lab 9\Lab22\Lab22\obj\Debug\Lab22.CanvasForm.resources
+C:\Users\Sergey\Desktop\КП и ЯП\КПиЯП Lab 9\Lab22\Lab22\obj\Debug\Lab22.MainForm.resources
+C:\Users\Sergey\Desktop\КП и ЯП\КПиЯП Lab 9\Lab22 — копия\Lab22\bin\Debug\Lab22.exe.config
+C:\Users\Sergey\Desktop\КП и ЯП\КПиЯП Lab 9\Lab22 — копия\Lab22\bin\Debug\Lab22.exe
+C:\Users\Sergey\Desktop\КП и ЯП\КПиЯП Lab 9\Lab22 — копия\Lab22\bin\Debug\Lab22.pdb
+C:\Users\Sergey\Desktop\КП и ЯП\КПиЯП Lab 9\Lab22 — копия\Lab22\obj\Debug\Lab22.csprojAssemblyReference.cache
+C:\Users\Sergey\Desktop\КП и ЯП\КПиЯП Lab 9\Lab22 — копия\Lab22\obj\Debug\Lab22.CanvasForm.resources
+C:\Users\Sergey\Desktop\КП и ЯП\КПиЯП Lab 9\Lab22 — копия\Lab22\obj\Debug\Lab22.MainForm.resources
+C:\Users\Sergey\Desktop\КП и ЯП\КПиЯП Lab 9\Lab22 — копия\Lab22\obj\Debug\Lab22.Properties.Resources.resources
+C:\Users\Sergey\Desktop\КП и ЯП\КПиЯП Lab 9\Lab22 — копия\Lab22\obj\Debug\Lab22.csproj.GenerateResource.cache
+C:\Users\Sergey\Desktop\КП и ЯП\КПиЯП Lab 9\Lab22 — копия\Lab22\obj\Debug\Lab22.exe
+C:\Users\Sergey\Desktop\КП и ЯП\КПиЯП Lab 9\Lab22 — копия\Lab22\obj\Debug\Lab22.pdb

@@ -1,0 +1,20 @@
+C:\Users\Sergey\Desktop\КП и ЯП\КПиЯП Lab 9\Lab22 — копия\Lab22\obj\Debug\Paint.csprojAssemblyReference.cache
+C:\Users\Sergey\Desktop\КП и ЯП\КПиЯП Lab 9\Lab22 — копия\Lab22\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\Sergey\Desktop\КП и ЯП\КПиЯП Lab 9\Lab22 — копия\Lab22\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\Sergey\Desktop\КП и ЯП\КПиЯП Lab 9\Lab22 — копия\Lab22\obj\Debug\Paint.CanvasForm.resources
+C:\Users\Sergey\Desktop\КП и ЯП\КПиЯП Lab 9\Lab22 — копия\Lab22\obj\Debug\Paint.MainForm.resources
+C:\Users\Sergey\Desktop\КП и ЯП\КПиЯП Lab 9\Lab22 — копия\Lab22\bin\Debug\Paint.exe.config
+C:\Users\Sergey\Desktop\КП и ЯП\КПиЯП Lab 9\Lab22 — копия\Lab22\bin\Debug\Paint.exe
+C:\Users\Sergey\Desktop\КП и ЯП\КПиЯП Lab 9\Lab22 — копия\Lab22\bin\Debug\Paint.pdb
+C:\Users\Sergey\Desktop\КП и ЯП\КПиЯП Lab 9\Lab22 — копия\Lab22\obj\Debug\Paint.exe
+C:\Users\Sergey\Desktop\КП и ЯП\КПиЯП Lab 9\Lab22 — копия\Lab22\obj\Debug\Paint.pdb
+C:\Users\Sergey\Desktop\Paint\Lab22\bin\Debug\Paint.exe.config
+C:\Users\Sergey\Desktop\Paint\Lab22\bin\Debug\Paint.exe
+C:\Users\Sergey\Desktop\Paint\Lab22\bin\Debug\Paint.pdb
+C:\Users\Sergey\Desktop\Paint\Lab22\obj\Debug\Paint.csprojAssemblyReference.cache
+C:\Users\Sergey\Desktop\Paint\Lab22\obj\Debug\Paint.CanvasForm.resources
+C:\Users\Sergey\Desktop\Paint\Lab22\obj\Debug\Paint.MainForm.resources
+C:\Users\Sergey\Desktop\Paint\Lab22\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\Sergey\Desktop\Paint\Lab22\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\Sergey\Desktop\Paint\Lab22\obj\Debug\Paint.exe
+C:\Users\Sergey\Desktop\Paint\Lab22\obj\Debug\Paint.pdb
